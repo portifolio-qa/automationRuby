@@ -1,5 +1,6 @@
 describe "Formulario" do 
   it "acessar a pagina" do
-    puts "acessar a pagina"
+    visit "http://localhost:8080/usuarios"
+    sleep 5
   end
 end
