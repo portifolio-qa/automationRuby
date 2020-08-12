@@ -7,7 +7,12 @@ describe "Cadastro" do
 
     expect(find('#msg').visible?).to be true
     expect(find("#msg")).to have_content "Campos preenchidos com sucesso, login realizado. BEM VINDO!!"
-    sleep ps
+    
    end  
+    after(:each) do |e|
+    nome =  e.description.gsub(/[^A-Za-z0-9 ]/, '').tr(' ', '_')
+    page.save_screenshot('log/' + nome + '.png')
+    end
+
 end
 

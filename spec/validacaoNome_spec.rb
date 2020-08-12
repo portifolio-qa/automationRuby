@@ -8,6 +8,8 @@ it 'nome obrigatorio' do
   click_button "Login"
   msg = page.driver.browser.switch_to.alert.text
   expect(msg).to eql 'campo *Nome obrigatorio'
+
   sleep 3
+  
   end
 end

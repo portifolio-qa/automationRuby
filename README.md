@@ -19,3 +19,8 @@ do selenium.
 # Link para visualizar as respostas das questões teóricas: 
 
 ## <a href=https://documentation-projects.github.io/documentation-softplan/ target="_blank">Documentação Projeto Softplan</a>
+
+
+# Diferenciais do Projeto (coisas que não foram solicitadas):
+
+* Log com Screenshots;
