@@ -18,4 +18,4 @@ do selenium.
 
 # Link para visualizar as respostas das questões teóricas: 
 
-## [Documentação Projeto Softplan](https://portifolio-qa.github.io/documentation-softplan/)
+## https://portifolio-qa.github.io/documentation-softplan
