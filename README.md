@@ -18,6 +18,4 @@ do selenium.
 
 # Link para visualizar as respostas das questões teóricas: 
 
-## [Documentação Projeto Softplan](a href=https://documentation-projects.github.io/documentation-softplan/ target="_blank")
-
 ## <a href=https://documentation-projects.github.io/documentation-softplan/ target="_blank">Documentação Projeto Softplan</a>
