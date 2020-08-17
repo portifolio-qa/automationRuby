@@ -24,3 +24,8 @@ do selenium.
 # Diferenciais do Projeto:
 
 * Log com Screenshots;
+* BDD
+* Jenkins
+* Docker
+* Integração continua
+
