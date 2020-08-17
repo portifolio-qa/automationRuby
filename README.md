@@ -18,14 +18,14 @@ do selenium.
 
 # Link para visualizar as respostas das questões teóricas: 
 
-## <a href=https://documentation-projects.github.io/documentation-softplan/ target="_blank">Documentação Projeto Softplan</a>
+## <a href=https://documentation-projects.github.io/documentation-softplan/ target="_blank">Documentação Projeto Softplan (desativado) </a>
 
 
 # Diferenciais do Projeto:
 
 * Log com Screenshots;
-* BDD
-* Jenkins
-* Docker
-* Integração continua
+* BDD;
+* Jenkins;
+* Docker;
+* Integração contínua.
 
