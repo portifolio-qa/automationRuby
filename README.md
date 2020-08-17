@@ -21,6 +21,6 @@ do selenium.
 ## <a href=https://documentation-projects.github.io/documentation-softplan/ target="_blank">Documentação Projeto Softplan</a>
 
 
-# Diferenciais do Projeto (issues que não foram solicitadas):
+# Diferenciais do Projeto:
 
 * Log com Screenshots;
