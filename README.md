@@ -1,8 +1,6 @@
-# automation-softplan
 
-# Projeto Testes Automatizados Softplan
+# Projeto Testes Automatizados Ruby
 
-Este projeto, foi desenvolvido para o cliente: Softplan. 
 * O projeto é composto por 16 questões e/ou exercícios no total.
 * Utilizado o framework Capybara de automação de testes web, que utiliza como base o selenium.
 
