@@ -14,10 +14,6 @@ que quer dizer: linguagem especifica de domínio que faz a abstração de muitos
 do selenium.
 
 
-# Link para visualizar as respostas das questões teóricas: 
-
-## <a href=https://documentation-projects.github.io/documentation-softplan/ target="_blank">Documentação Projeto Softplan (desativado) </a>
-
 
 # Diferenciais do Projeto:
 
